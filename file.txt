@@ -1,0 +1,14 @@
+1. Generators with Yield and Next Method
+2. Infinite Generator
+3. Send Values to Generators
+4. Yield from and close the Generators
+5. Decorators in python
+6. Build a logger with Decorator
+7. Build an Authorization Decorator
+
+
+Explanation:
+Generators are like functions, they help to save memory
+Generators makes use of 'yield' rather than 'return' which is normally used in functions.
+- yield pauses and saves state
+- next() resumes the execution
