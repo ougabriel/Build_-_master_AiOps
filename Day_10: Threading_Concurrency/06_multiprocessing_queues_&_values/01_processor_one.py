@@ -9,6 +9,8 @@ def cpu_heavy():
     for i in range(10**9):
         total += i
     print("Done with the crunch")
+
+    
 #create the thread
 threads = []
 for t in range(2):

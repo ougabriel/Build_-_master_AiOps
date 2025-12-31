@@ -3,7 +3,6 @@
 
 # This program demonstrates concurrency on a single CPU using threads, not parallelism
 
-from os import wait
 import threading
 import time
 
