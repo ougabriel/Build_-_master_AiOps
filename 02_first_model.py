@@ -1,3 +1,5 @@
+#pydantic keeps the integrity of the data which has been defined in creation.
+
 from pydantic import BaseModel
 
 class User(BaseModel):
