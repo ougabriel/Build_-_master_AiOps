@@ -227,11 +227,11 @@ Companies want *one platform*, not demos.
 * GitHub Actions
 
 **CV Impact:**
-✅ “Hire-this-person-now” project
+ “Hire-this-person-now” project
 
 ---
 
-## ⚡ Which 3 will get you hired fastest?
+##  Which 3 will get you hired fastest?
 
 If your goal is **quick job conversion**, build these first:
 
@@ -243,7 +243,7 @@ These align perfectly with **DevOps → MLOps/AIOps transition roles**.
 
 ---
 
-## 🧠 How to present this on your CV (important)
+## Presenting this on my CV
 
 Instead of:
 
@@ -255,7 +255,7 @@ Use:
 
 ---
 
-## 🚀 Next step (I recommend this)
+## Next step (I recommend this)
 
 I can:
 
